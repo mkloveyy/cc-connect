@@ -1,0 +1,36 @@
+core/cron.go
+  2c63ede73f667d8b 392,432,438-440,444-499
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "8f585ce4023fc32807ba937be873c02bee97be59",
+  "prompts": {
+    "0a8418d4eacada43": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "63c4fb95-b1b5-486b-ba8d-38a1c633063c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k <ma_k@ctrip.com>",
+      "messages": [],
+      "total_additions": 99,
+      "total_deletions": 41,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "2c63ede73f667d8b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f7c77f2-b15c-4d41-817d-a935838d072a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k <ma_k@ctrip.com>",
+      "messages": [],
+      "total_additions": 63,
+      "total_deletions": 58,
+      "accepted_lines": 63,
+      "overriden_lines": 0
+    }
+  }
+}

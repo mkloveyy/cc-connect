@@ -1,0 +1,45 @@
+core/message.go
+  2c63ede73f667d8b 140-143
+web/src/i18n/locales/ja.json
+  2c63ede73f667d8b 89-91
+web/src/i18n/locales/es.json
+  2c63ede73f667d8b 89-91
+web/src/i18n/locales/en.json
+  2c63ede73f667d8b 89-91
+web/src/api/cron.ts
+  2c63ede73f667d8b 14,23
+core/api.go
+  2c63ede73f667d8b 219,298
+web/src/i18n/locales/zh.json
+  2c63ede73f667d8b 89-91
+web/src/i18n/locales/zh-TW.json
+  2c63ede73f667d8b 89-91
+core/management.go
+  2c63ede73f667d8b 1119,1144-1171
+web/src/pages/Cron/CronList.tsx
+  2c63ede73f667d8b 5,8-9,15,40,74-84,112-118
+core/engine.go
+  2c63ede73f667d8b 809-815,1713-1730
+core/cron.go
+  2c63ede73f667d8b 35,88-94,348-352
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "5f655cf235b1699bf68e6df8b6ae8c71aa87a15a",
+  "prompts": {
+    "2c63ede73f667d8b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6f7c77f2-b15c-4d41-817d-a935838d072a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k <ma_k@ctrip.com>",
+      "messages": [],
+      "total_additions": 131,
+      "total_deletions": 43,
+      "accepted_lines": 113,
+      "overriden_lines": 0
+    }
+  }
+}

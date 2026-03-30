@@ -1,0 +1,23 @@
+core/cron_test.go
+  79456abd35269eb0 465-499
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "14bbd8b30fa0f1b0ecfdc7fc4525d700fc647c68",
+  "prompts": {
+    "79456abd35269eb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b5c6261-65d4-47ac-95d9-6a7cd112293f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k <ma_k@ctrip.com>",
+      "messages": [],
+      "total_additions": 35,
+      "total_deletions": 0,
+      "accepted_lines": 35,
+      "overriden_lines": 0
+    }
+  }
+}

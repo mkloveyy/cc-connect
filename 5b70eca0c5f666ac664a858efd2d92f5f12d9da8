@@ -1,0 +1,23 @@
+web/src/pages/Cron/CronList.tsx
+  79456abd35269eb0 349
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "5b70eca0c5f666ac664a858efd2d92f5f12d9da8",
+  "prompts": {
+    "79456abd35269eb0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9b5c6261-65d4-47ac-95d9-6a7cd112293f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k <ma_k@ctrip.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}

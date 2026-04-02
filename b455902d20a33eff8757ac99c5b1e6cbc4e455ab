@@ -1,0 +1,27 @@
+core/cron.go
+  ac96facbb3ff45e2 38,127-131,214-215
+web/src/pages/Cron/CronList.tsx
+  ac96facbb3ff45e2 355,360,366,370-373
+core/engine.go
+  ac96facbb3ff45e2 7289-7290,7738-7739
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "b455902d20a33eff8757ac99c5b1e6cbc4e455ab",
+  "prompts": {
+    "ac96facbb3ff45e2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "42bd0ca8-f227-458f-b75d-a4b90ec0c105",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 16,
+      "accepted_lines": 19,
+      "overriden_lines": 0
+    }
+  }
+}

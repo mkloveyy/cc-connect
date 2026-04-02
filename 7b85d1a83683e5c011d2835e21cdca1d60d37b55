@@ -1,0 +1,23 @@
+core/management.go
+  c33a4f4a38e47a95 620-622
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "7b85d1a83683e5c011d2835e21cdca1d60d37b55",
+  "prompts": {
+    "c33a4f4a38e47a95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fecdaaba-fe39-47d7-8e21-e76e8e540f53",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ma_k",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}

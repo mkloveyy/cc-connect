@@ -1,5 +1,30 @@
 # Changelog
 
+## v1.2.2-beta.5 (2026-04-03)
+
+Beta release — placeholder entry, fill in details before publishing.
+
+### New Features
+
+- TBD
+- (fill in)
+
+### Bug Fixes
+
+- TBD
+- (fill in)
+
+### Improvements
+
+- TBD
+- (fill in)
+
+### Contributors
+
+Special thanks to all contributors who made this release possible:
+
+- (fill in)
+
 ## v1.2.2-beta.4 (2026-03-22)
 
 Beta release with Weixin (ilink) personal chat support, session/continue improvements, and platform fixes.
